@@ -1,8 +1,8 @@
 # Airline Ticket Retrieval Study
 
 This repository contains the data used in the airline ticketing user
-study, as described in the paper
-*[Item Retrieval As Utility Estimation]*(https://ti.arc.nasa.gov/publications/52165/download/)".
+study, as described in the paper "[Item Retrieval As Utility
+Estimation](https://ti.arc.nasa.gov/publications/52165/download/)".
 Please refer to this paper for additional details on the data.
 
 If you use this data in your publication, please include the following
